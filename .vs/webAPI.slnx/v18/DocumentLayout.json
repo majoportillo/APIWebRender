@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|d:\\universidad\\7mo semestre\\analisis de sistemas\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|d:\\universidad\\7mo semestre\\analisis de sistemas\\webapi\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\webAPI\\Program.cs",
+              "RelativeDocumentMoniker": "webAPI\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\webAPI\\Program.cs",
+              "RelativeToolTip": "webAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:02:08.499Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -30,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\webAPI\\Dockerfile",
               "RelativeDocumentMoniker": "webAPI\\Dockerfile",
