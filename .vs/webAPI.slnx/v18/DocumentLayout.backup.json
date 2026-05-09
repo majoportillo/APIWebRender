@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|d:\\universidad\\7mo semestre\\analisis de sistemas\\webapi\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|webAPI\\webAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\webAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "webAPI\\Dockerfile",
+              "ToolTip": "D:\\UNIVERSIDAD\\7MO SEMESTRE\\analisis de sistemas\\webAPI\\webAPI\\Dockerfile",
+              "RelativeToolTip": "webAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T21:38:22.999Z",
+              "EditorCaption": ""
             }
           ]
         }
